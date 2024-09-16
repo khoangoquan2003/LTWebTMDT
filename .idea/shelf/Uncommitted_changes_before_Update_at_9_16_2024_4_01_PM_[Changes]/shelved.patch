@@ -1,0 +1,29 @@
+Index: src/main/java/com/eshop/TenWeb/Model/style.css
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>alo m123
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/main/java/com/eshop/TenWeb/Model/style.css b/src/main/java/com/eshop/TenWeb/Model/style.css
+--- a/src/main/java/com/eshop/TenWeb/Model/style.css	(revision e3ae03a9e4934ff34b2a7c6be23497e331219733)
++++ b/src/main/java/com/eshop/TenWeb/Model/style.css	(date 1726477101334)
+@@ -1,1 +1,0 @@
+-alo m123
+\ No newline at end of file
+Index: src/main/java/com/eshop/TenWeb/Model/application.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/main/java/com/eshop/TenWeb/Model/application.java b/src/main/java/com/eshop/TenWeb/Model/application.java
+new file mode 100644
+--- /dev/null	(date 1726477284768)
++++ b/src/main/java/com/eshop/TenWeb/Model/application.java	(date 1726477284768)
+@@ -0,0 +1,6 @@
++package com.eshop.TenWeb.Model;
++
++public class application {
++    public static void main(String[] args) {
++    }
++}
