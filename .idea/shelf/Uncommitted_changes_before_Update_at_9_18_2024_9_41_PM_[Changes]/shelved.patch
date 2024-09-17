@@ -1,0 +1,82 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"c7637df2-e7f1-4ba2-b744-23fc080845e7\" name=\"Changes\" comment=\"giao dien ntn dc\">\r\n      <change afterPath=\"$PROJECT_DIR$/src/main/java/com/eshop/TenWeb/Controller/email.png\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/main/java/com/eshop/TenWeb/Controller/location.png\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/main/java/com/eshop/TenWeb/Controller/login.html\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/main/java/com/eshop/TenWeb/Controller/phone-call.png\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/main/java/com/eshop/TenWeb/Controller/register.html\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/main/java/com/eshop/TenWeb/Controller/th.jpg\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/main/java/com/eshop/TenWeb/Model/login.css\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/main/java/com/eshop/TenWeb/Model/register.css\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/main/java/com/eshop/TenWeb/Controller/Screenshot 2024-05-28 203405.png\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/main/java/com/eshop/TenWeb/Controller/index.html\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/main/java/com/eshop/TenWeb/Controller/index.html\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/main/java/com/eshop/TenWeb/Controller/skytour.jpg\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/main/java/com/eshop/TenWeb/Controller/style.css\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/main/java/com/eshop/TenWeb/Model/style.css\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/main/java/com/eshop/TenWeb/Controller/z5455139367065_48171b66267b3a43960c8c9501beb862.jpg\" beforeDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"HTML File\" />\r\n        <option value=\"CSS File\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <excluded-from-favorite>\r\n      <branch-storage>\r\n        <map>\r\n          <entry type=\"REMOTE\">\r\n            <value>\r\n              <list>\r\n                <branch-info repo=\"$PROJECT_DIR$\" source=\"origin/master\" />\r\n              </list>\r\n            </value>\r\n          </entry>\r\n        </map>\r\n      </branch-storage>\r\n    </excluded-from-favorite>\r\n    <option name=\"PUSH_TAGS\">\r\n      <GitPushTagMode>\r\n        <option name=\"argument\" value=\"--tags\" />\r\n        <option name=\"title\" value=\"All\" />\r\n      </GitPushTagMode>\r\n    </option>\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"GitHubPullRequestSearchHistory\">{\r\n  &quot;lastFilter&quot;: {}\r\n}</component>\r\n  <component name=\"GithubPullRequestsUISettings\">{\r\n  &quot;selectedUrlAndAccountId&quot;: {\r\n    &quot;url&quot;: &quot;https://github.com/khoangoquan2003/LTWebTMDT.git&quot;,\r\n    &quot;accountId&quot;: &quot;b5221add-ef57-48b3-bcae-51b930f3f401&quot;\r\n  }\r\n}</component>\r\n  <component name=\"ProblemsViewState\">\r\n    <option name=\"selectedTabId\" value=\"CurrentFile\" />\r\n  </component>\r\n  <component name=\"ProjectColorInfo\">{\r\n  &quot;associatedIndex&quot;: 6\r\n}</component>\r\n  <component name=\"ProjectId\" id=\"2m8giZU3XpBJZWSJDhhNca7pOGY\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">{\r\n  &quot;keyToString&quot;: {\r\n    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,\r\n    &quot;JavaScript Debug.index.html.executor&quot;: &quot;Coverage&quot;,\r\n    &quot;Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor&quot;: &quot;Run&quot;,\r\n    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,\r\n    &quot;git-widget-placeholder&quot;: &quot;master&quot;,\r\n    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,\r\n    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,\r\n    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,\r\n    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,\r\n    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,\r\n    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,\r\n    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,\r\n    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,\r\n    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,\r\n    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,\r\n    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,\r\n    &quot;settings.editor.selected.configurable&quot;: &quot;settings.qodana&quot;,\r\n    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;\r\n  }\r\n}</component>\r\n  <component name=\"RecentsManager\">\r\n    <key name=\"MoveFile.RECENT_KEYS\">\r\n      <recent name=\"C:\\Users\\Linh Luu\\IdeaProjects\\LTWebTMDT\\src\\main\\java\\com\\eshop\\TenWeb\\Controller\" />\r\n      <recent name=\"C:\\Users\\Linh Luu\\IdeaProjects\\LTWebTMDT\\src\\main\\java\\com\\eshop\\TenWeb\\Model\" />\r\n    </key>\r\n  </component>\r\n  <component name=\"SharedIndexes\">\r\n    <attachedChunks>\r\n      <set>\r\n        <option value=\"bundled-jdk-9823dce3aa75-b114ca120d71-intellij.indexing.shared.core-IU-242.21829.142\" />\r\n        <option value=\"bundled-js-predefined-d6986cc7102b-7c0b70fcd90d-JavaScript-IU-242.21829.142\" />\r\n      </set>\r\n    </attachedChunks>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"c7637df2-e7f1-4ba2-b744-23fc080845e7\" name=\"Changes\" comment=\"\" />\r\n      <created>1726463746747</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1726463746747</updated>\r\n      <workItem from=\"1726463747846\" duration=\"393000\" />\r\n      <workItem from=\"1726561786998\" duration=\"370000\" />\r\n      <workItem from=\"1726562179448\" duration=\"304000\" />\r\n      <workItem from=\"1726563499036\" duration=\"1257000\" />\r\n      <workItem from=\"1726575760038\" duration=\"3610000\" />\r\n      <workItem from=\"1726581767468\" duration=\"4353000\" />\r\n      <workItem from=\"1726647021508\" duration=\"3929000\" />\r\n      <workItem from=\"1726665433899\" duration=\"4308000\" />\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"giao dien ntn dc\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1726564652603</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1726564652603</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"2\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"OPEN_GENERIC_TABS\">\r\n      <map>\r\n        <entry key=\"3e5a6e01-c450-4913-9f21-4dc2dc3a21d9\" value=\"TOOL_WINDOW\" />\r\n      </map>\r\n    </option>\r\n    <option name=\"RECENT_FILTERS\">\r\n      <map>\r\n        <entry key=\"Branch\">\r\n          <value>\r\n            <list>\r\n              <RecentGroup>\r\n                <option name=\"FILTER_VALUES\">\r\n                  <option value=\"origin/master\" />\r\n                </option>\r\n              </RecentGroup>\r\n              <RecentGroup>\r\n                <option name=\"FILTER_VALUES\">\r\n                  <option value=\"master\" />\r\n                </option>\r\n              </RecentGroup>\r\n              <RecentGroup>\r\n                <option name=\"FILTER_VALUES\">\r\n                  <option value=\"HEAD\" />\r\n                </option>\r\n              </RecentGroup>\r\n            </list>\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"3e5a6e01-c450-4913-9f21-4dc2dc3a21d9\">\r\n          <value>\r\n            <State>\r\n              <option name=\"CUSTOM_BOOLEAN_PROPERTIES\">\r\n                <map>\r\n                  <entry key=\"Show.Git.Branches\" value=\"true\" />\r\n                </map>\r\n              </option>\r\n              <option name=\"FILTERS\">\r\n                <map>\r\n                  <entry key=\"branch\">\r\n                    <value>\r\n                      <list>\r\n                        <option value=\"master\" />\r\n                      </list>\r\n                    </value>\r\n                  </entry>\r\n                </map>\r\n              </option>\r\n            </State>\r\n          </value>\r\n        </entry>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State>\r\n              <option name=\"FILTERS\">\r\n                <map>\r\n                  <entry key=\"branch\">\r\n                    <value>\r\n                      <list>\r\n                        <option value=\"HEAD\" />\r\n                      </list>\r\n                    </value>\r\n                  </entry>\r\n                </map>\r\n              </option>\r\n            </State>\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"1 commit\" />\r\n    <MESSAGE value=\"helo\" />\r\n    <MESSAGE value=\"giao dien ntn dc\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"giao dien ntn dc\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision af3460aed9925ed738c268e2f85ef1fe71ee76eb)
++++ b/.idea/workspace.xml	(date 1726670429089)
+@@ -4,22 +4,7 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="c7637df2-e7f1-4ba2-b744-23fc080845e7" name="Changes" comment="giao dien ntn dc">
+-      <change afterPath="$PROJECT_DIR$/src/main/java/com/eshop/TenWeb/Controller/email.png" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/main/java/com/eshop/TenWeb/Controller/location.png" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/main/java/com/eshop/TenWeb/Controller/login.html" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/main/java/com/eshop/TenWeb/Controller/phone-call.png" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/main/java/com/eshop/TenWeb/Controller/register.html" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/main/java/com/eshop/TenWeb/Controller/th.jpg" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/main/java/com/eshop/TenWeb/Model/login.css" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/main/java/com/eshop/TenWeb/Model/register.css" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/main/java/com/eshop/TenWeb/Controller/Screenshot 2024-05-28 203405.png" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/main/java/com/eshop/TenWeb/Controller/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/eshop/TenWeb/Controller/index.html" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/main/java/com/eshop/TenWeb/Controller/skytour.jpg" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/main/java/com/eshop/TenWeb/Controller/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/eshop/TenWeb/Model/style.css" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/main/java/com/eshop/TenWeb/Controller/z5455139367065_48171b66267b3a43960c8c9501beb862.jpg" beforeDir="false" />
+-    </list>
++    <list default="true" id="c7637df2-e7f1-4ba2-b744-23fc080845e7" name="Changes" comment="xây dựng giao diện ừ từ" />
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+@@ -52,6 +37,11 @@
+         <option name="argument" value="--tags" />
+         <option name="title" value="All" />
+       </GitPushTagMode>
++    </option>
++    <option name="RECENT_BRANCH_BY_REPOSITORY">
++      <map>
++        <entry key="$PROJECT_DIR$" value="master" />
++      </map>
+     </option>
+     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+   </component>
+@@ -127,7 +117,7 @@
+       <workItem from="1726575760038" duration="3610000" />
+       <workItem from="1726581767468" duration="4353000" />
+       <workItem from="1726647021508" duration="3929000" />
+-      <workItem from="1726665433899" duration="4308000" />
++      <workItem from="1726665433899" duration="4625000" />
+     </task>
+     <task id="LOCAL-00001" summary="giao dien ntn dc">
+       <option name="closed" value="true" />
+@@ -137,7 +127,15 @@
+       <option name="project" value="LOCAL" />
+       <updated>1726564652603</updated>
+     </task>
+-    <option name="localTasksCounter" value="2" />
++    <task id="LOCAL-00002" summary="xây dựng giao diện ừ từ">
++      <option name="closed" value="true" />
++      <created>1726670210392</created>
++      <option name="number" value="00002" />
++      <option name="presentableId" value="LOCAL-00002" />
++      <option name="project" value="LOCAL" />
++      <updated>1726670210392</updated>
++    </task>
++    <option name="localTasksCounter" value="3" />
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
+@@ -222,6 +220,7 @@
+     <MESSAGE value="1 commit" />
+     <MESSAGE value="helo" />
+     <MESSAGE value="giao dien ntn dc" />
+-    <option name="LAST_COMMIT_MESSAGE" value="giao dien ntn dc" />
++    <MESSAGE value="xây dựng giao diện ừ từ" />
++    <option name="LAST_COMMIT_MESSAGE" value="xây dựng giao diện ừ từ" />
+   </component>
+ </project>
+\ No newline at end of file
